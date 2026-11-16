@@ -1,7 +1,7 @@
 {
   "id": "./",
-  "name": "telebirr",
-  "short_name": "telebirr",
+  "name": "tele",
+  "short_name": "tele",
   "description": "Transaction receipt and telebirr-style home screen.",
   "start_url": "./",
   "scope": "./",
